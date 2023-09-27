@@ -1,0 +1,5 @@
+GPIO::OK
+CAMERA::OK
+Actuators::OK
+INTERNET::OK
+Bluetooth::BAD
